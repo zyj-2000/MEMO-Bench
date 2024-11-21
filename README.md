@@ -3,7 +3,7 @@ This is a draft repository that will be refined subsequently. Currently only the
 
 Email: zyj2000@sjtu.edu.cn
 ## Pre-acquisition
-BaiduYunPan(百度云盘)：
+BaiduYunPan(百度云盘)：[MEMO-Bench.zip | 7.64GB](https://pan.baidu.com/s/10pxnW_xTPPzLsM7RT38g9g?pwd=memo)
 
 MEMO-Bench:
 - **dataset**: include 7,145 AI-Generated Portrait Images;
