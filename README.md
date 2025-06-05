@@ -1,7 +1,12 @@
 # MEMO-Bench
+**Authors:** Yingjie Zhou, Zicheng Zhang, Jiezhang Cao, Jun Jia, Yanwei Jiang, Farong Wen, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai
+
+**Institution:** Shanghai Jiaotong University, Harvard Medical School, PengCheng Laboratory
+
 This is a draft repository that will be refined subsequently. Currently only the link to get the MEMO-Bench is available.
 
 Email: zyj2000@sjtu.edu.cn
+
 ## Pre-acquisition
 BaiduYunPan(百度云盘)：[MEMO-Bench.zip | 7.64GB](https://pan.baidu.com/s/10pxnW_xTPPzLsM7RT38g9g?pwd=memo)
 
